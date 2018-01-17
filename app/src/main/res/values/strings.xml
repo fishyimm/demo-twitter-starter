@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoTwitter</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signupOrLogin">SIGNUP/LOGIN</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
